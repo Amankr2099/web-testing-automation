@@ -9,6 +9,7 @@ import java.time.Duration;
 
 public class LoginPage {
 
+    //loading drivers
     WebDriver driver;
     WebDriverWait wait;
 
